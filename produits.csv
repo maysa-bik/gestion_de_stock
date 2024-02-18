@@ -1,0 +1,5 @@
+ID,Nom,Description,Prix,Quantité,ID Catégorie
+1,Pantalon,"Pantalon en denim, Disponible en plusieurs couleurs.",50,57,1
+2,T_shirt,"T_shirt en coton, Disponible en plusieurs couleurs.",25,250,2
+3,Jacket,Veste en nylon avec fermeture éclair et poches latérales.,90,76,1
+4,Pull,Pull en laine mélangée douce avec col montant et motif à rayures.,49,88,2
