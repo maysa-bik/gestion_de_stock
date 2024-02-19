@@ -175,7 +175,7 @@ class StockManagerApp:
                                     (new_name, new_description, new_price, new_quantity, new_category_id, product_id))
                 self.db_connection.commit()
 
-                self.refresh_data()
+                self.display_products()
 
                 update_window.destroy()
             except Exception as e:
